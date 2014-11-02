@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<layout version="0.0.1">
+    <default>
+   
+    </default>
+	
+	<frontend_default_default_catalog_category_view>
+		<reference name="product_list">
+             <!--<action method="setTemplate"><template>xxx/list.phtml</template></action>-->
+		</reference>
+	</frontend_default_default_catalog_category_view>
+	
+	<frontend_rwd_default_catalog_category_view>
+		<reference name="product_list">
+             <!--<action method="setTemplate"><template>xxx/rwd/list.phtml</template></action>-->
+		</reference>
+	</frontend_rwd_default_catalog_category_view>
+
+</layout> 
