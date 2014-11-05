@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Ninja_Mext>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Ninja_Mext>
+    </modules>
+</config> 
