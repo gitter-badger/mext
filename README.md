@@ -1,5 +1,6 @@
 Mext
 ========================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ninjahackers/mext?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Magento Extended (Mext) provides extended feature that makes magento development like eating a ice cream 
 
